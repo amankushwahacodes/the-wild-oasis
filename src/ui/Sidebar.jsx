@@ -9,8 +9,7 @@ const StyledSidebar = styled.aside`
     grid-row: 1/ -1;
     flex-direction: column;
     gap: 3.2rem;
-
-`
+`;
 
 function Sidebar() {
     return (
