@@ -200,7 +200,7 @@ export const bookings = [
     created_at: fromToday(-16, true),
     startDate: fromToday(-16),
     endDate: fromToday(-9),
-    cabinId: 6,
+    cabinId: 6, 
     guestId: 18,
     hasBreakfast: true,
     observations: 'I will need a rollaway bed for one of the guests',
