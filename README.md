@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="./public/lodgic.png" alt="logo" width="90" height="auto">
+  <img src="./public/lodgic-dark.png" alt="logo" width="150" height="auto">
 
   <h1>Lodgic - Booking & Operations System</h1>
 
@@ -10,13 +10,13 @@
     </a>
   </h3>
 
-    <div align="center">
+  <div align="center">
         <a href="https://lodgic-app.netlify.app/">View website</a>
         •
         <a href="https://github.com/amankushwahacodes/lodgic/issues">Report Bug</a>
         •
         <a href="https://github.com/amankushwahacodes/lodgic/pulls">Request Feature</a>
-    </div>
+  </div>
 
   <hr>
 
