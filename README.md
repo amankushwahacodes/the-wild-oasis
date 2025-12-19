@@ -51,10 +51,10 @@ It enables hotel staff to manage reservations, cabins, check-ins, users, and ope
 
 ## Operations & Dashboard
 - Centralized overview displaying key operational metrics:
-  -Bookings
-  -Check-ins
-  -Sales
-  -Occupancy rate
+  - Bookings
+  - Check-ins
+  - Sales
+  - Occupancy rate
 
 - Interactive charts and visual analytics for better operational insights
 
