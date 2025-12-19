@@ -2,7 +2,7 @@
 
   <img src="./public/lodgic-dark.png" alt="logo" width="200" height="auto">
 
-  <h2>Lodgic - Booking & Operations System</h2>
+  <h1>Lodgic - Booking & Operations System</h1>
 
   <h3>
     <a href="https://lodgic-app.netlify.app/">
@@ -63,7 +63,7 @@ It enables hotel staff to manage reservations, cabins, check-ins, users, and ope
 - **Cabin Management**
   - Create, update, and delete cabin records with real-time availability updates
 
--**Booking Management**
+- **Booking Management**
   - Manage reservations, check guests in and out, and update booking statuses
 
 - **Real-time Sync**
